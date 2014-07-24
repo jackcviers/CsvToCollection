@@ -1,0 +1,15 @@
+{
+  "name": "CsvToCollection",
+  "version": "1.0.0",
+  "description": "Import your csv file to backbone collection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Renan Carvalho",
+  "license": "ISC",
+  "devDependencies": {
+    "backbone": "^1.1.2",
+    "jquery": "^2.1.1"
+  }
+}
