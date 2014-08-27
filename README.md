@@ -1,11 +1,15 @@
 CsvToCollection
 ===============
 
+
 This is a simple way to import your csv file into a backbone collection.
 If you are just looking for the content of the csv file, it will help.
 
 
 This is the first version of the plugIn and there a lot f things to improve, Helps are welcome.
+##Using with Bower
+
+	bower install backbone-csv-to-collection
 
 
 ## Example of use with UMD.
