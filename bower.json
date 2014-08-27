@@ -1,0 +1,29 @@
+{
+  "name": "backone-csv-to-collection",
+  "version": "0.0.1",
+  "homepage": "https://github.com/renancarvalho/CsvToCollection",
+  "authors": [
+    "Renan Carvalho <renansscarvalho@gmail.com>"
+  ],
+  "description": "Import csv files as backbone collections.",
+  "main": "CsvToCollection.min.js",
+  "keywords": [
+    "Csv",
+    "backbone",
+    "collections",
+    "import-csv",
+    "backbone-csv"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+ "dependencies": {
+  "backbone": "^1.1.2",
+    "jquery": "^2.1.1"
+  }
+}
