@@ -58,7 +58,7 @@ This is the first version of the plugIn and there a lot f things to improve, Hel
 	    },
     }
 
-###Browse support.
+###Browser support.
 
 IE10+
 Chrome 21+
