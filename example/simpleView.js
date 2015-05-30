@@ -1,6 +1,5 @@
-var Backbone = require('backbone');
-var CsvToCollection = require('../CsvToCollection/csvToCollection.js');
-var renan = require('./test');
+Backbone = require('backbone')
+CsvToCollection = require('./CsvToCollection/csvToCollection.js')
 
 module.exports = Backbone.View.extend({	
 
@@ -22,9 +21,7 @@ module.exports = Backbone.View.extend({
 	},
 
 	render: function() {
-		debugger;
-		return $(this.el).append("<input type='file' id='file'>");	
-		debugger;	
+		return $(this.el).append("<input type='file' id='file'>");		
 	}
 
 });
