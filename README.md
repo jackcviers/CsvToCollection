@@ -10,9 +10,12 @@ This is the first version of the plugIn and there a lot f things to improve, Hel
 ##Using with Bower
 
 	bower install backbone-csv-to-collection
+
+
+##Using with npm
+
 	npm install csvtocollection
-
-
+	
 ## Example of use with UMD.
 
      html file    
